@@ -1,15 +1,15 @@
 // Edit the two objects below to make this your own.
 const profile = {
-  name: 'Alex Rivera',
+  name: 'Olabode Gbolahan',
   bio: 'Product designer making small useful things. Based in Portland.',
-  initials: 'AR',
+  initials: 'OG',
 }
 
 const links = [
   { label: 'Portfolio', url: 'https://example.com' },
   { label: 'Writing', url: 'https://example.com/writing' },
-  { label: 'X / Twitter', url: 'https://twitter.com' },
-  { label: 'Say hello', url: 'mailto:hello@example.com' },
+  { label: 'X / Twitter', url: 'https://x.com/timi_onchain' },
+  { label: 'Say hello', url: 'gbolahan465@gmail..com' },
 ]
 
 function LinkCard({ label, url }) {
