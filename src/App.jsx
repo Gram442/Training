@@ -1,6 +1,6 @@
 // Edit the two objects below to make this your own.
 const profile = {
-  name: 'Olabode Gbolahan',
+  name: 'Gram',
   bio: 'Product designer making small useful things. Based in Portland.',
   initials: 'OG',
 }
