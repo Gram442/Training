@@ -7,9 +7,9 @@ const profile = {
 
 const links = [
   { label: 'Portfolio', url: 'https://example.com' },
-  { label: 'Writing', url: 'https://example.com/writing' },
+  { label: 'Github', url: 'https://example.com/writing' },
   { label: 'X / Twitter', url: 'https://x.com/timi_onchain' },
-  { label: 'Say hello', url: 'gbolahan465@gmail..com' },
+  { label: 'Email', url: 'gbolahan465@gmail..com' },
 ]
 
 function LinkCard({ label, url }) {
